@@ -22,7 +22,7 @@ class LocaisNaturais : public Locais
 		LocaisNaturais(string desc,double a);
 		~LocaisNaturais();
 
-		void setArea(string &a);
+		void setArea(double a);
 		double getArea() const;
 
 
