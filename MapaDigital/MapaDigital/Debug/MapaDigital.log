@@ -1,0 +1,21 @@
+﻿Build started 04/10/2013 14:28:29.
+     1>Project "C:\Users\Miguel\Documents\GitHub\ESINF\MapaDigital\MapaDigital\MapaDigital.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\miguel\documents\github\esinf\mapadigital\mapadigital\locais.h(70): error C2065: 'LocaisNaturais' : undeclared identifier
+     1>c:\users\miguel\documents\github\esinf\mapadigital\mapadigital\locais.h(71): error C2065: 'LocaisHistoricosCulturais' : undeclared identifier
+     1>c:\users\miguel\documents\github\esinf\mapadigital\mapadigital\viasligacao.h(151): error C3490: 'tamanho' cannot be modified because it is being accessed through a const object
+     1>c:\users\miguel\documents\github\esinf\mapadigital\mapadigital\viasligacao.h(156): error C3490: 'vec' cannot be modified because it is being accessed through a const object
+     1>c:\users\miguel\documents\github\esinf\mapadigital\mapadigital\viasligacao.h(160): error C3490: 'actual' cannot be modified because it is being accessed through a const object
+     1>c:\users\miguel\documents\github\esinf\mapadigital\mapadigital\viasligacao.h(170): error C2065: 'AutoEstradas' : undeclared identifier
+     1>c:\users\miguel\documents\github\esinf\mapadigital\mapadigital\viasligacao.h(171): error C2065: 'EstradasNacionais' : undeclared identifier
+     1>c:\users\miguel\documents\github\esinf\mapadigital\mapadigital\viasligacao.h(184): error C2065: 'AutoEstradas' : undeclared identifier
+     1>c:\users\miguel\documents\github\esinf\mapadigital\mapadigital\viasligacao.h(184): error C2061: syntax error : identifier 'AutoEstradas'
+     1>c:\users\miguel\documents\github\esinf\mapadigital\mapadigital\viasligacao.h(185): error C2065: 'EstradasNacionais' : undeclared identifier
+     1>c:\users\miguel\documents\github\esinf\mapadigital\mapadigital\viasligacao.h(185): error C2061: syntax error : identifier 'EstradasNacionais'
+     1>Done Building Project "C:\Users\Miguel\Documents\GitHub\ESINF\MapaDigital\MapaDigital\MapaDigital.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.32
